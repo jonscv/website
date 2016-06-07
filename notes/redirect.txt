@@ -1,0 +1,1 @@
+this string gets redirected into a text file using the > symbol

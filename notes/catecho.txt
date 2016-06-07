@@ -1,0 +1,1 @@
+the difference between cat and echo is the former reads and the latter writes

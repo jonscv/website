@@ -1,24 +1,3 @@
+# Sample document
 
-    ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--,
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    -----------------------------------------------------------------
-
-
-Hi there! Welcome to Cloud9 IDE!
-
-This Cloud9 system is designed to be used with the [Ruby on Rails Tutorial](http://www.railstutorial.org/) by Michael Hartl. Full setup instructions can be found for free online in the [*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
-
-For more information on how to use Cloud9, visit http://docs.c9.io for our documentation. If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
-
-Happy coding!
-The Cloud9 IDE team
-
-# Ruby on Rails Tutorial: "hello, world!"
-
-This is the first application for the
-[*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+This is a sample document written for the tutorial [*Learn Enough™ Text Editor to Be Dangerous*](http://learnenough.com/text-editor) by [Michael Hartl](http://michaelhartl.com/). It's written in [Markdown](daringfireball.net/projects/markdown/), a plain-text format that's both easy to read and easy to convert to HTML. In later tutorials, we'll use Markdown for making README files designed to give a quick overview of a project's contents.

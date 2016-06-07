@@ -1,0 +1,1 @@
+ ls *.txt looks for all files of type txt

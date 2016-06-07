@@ -1,0 +1,1 @@
+cat retrieves the string to the screen
